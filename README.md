@@ -1,4 +1,4 @@
-# advertisy
+# Advertisy
 
 A new Flutter project.
 
